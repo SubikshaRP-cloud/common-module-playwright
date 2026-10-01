@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "ORA_WWV_APP_6A9F151B5725C",
+      "value": "ORA_WWV-wAoc42iPs6d0JUQR-ipRelJK",
+      "domain": "dowellapps.com",
+      "path": "/ords/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dowellapps.com:8443",
+      "localStorage": [
+        {
+          "name": "apex_current_role_id",
+          "value": "3941"
+        }
+      ]
+    }
+  ]
+}
